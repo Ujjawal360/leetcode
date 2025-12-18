@@ -1,0 +1,11 @@
+title: "Mathematical interpretation of leetcode problem"
+description: "Work in progress.."
+baseurl: "/leetcode"  # must match repo name
+url: "https://ujjawal360.github.io"
+permalink: pretty
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
